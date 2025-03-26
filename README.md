@@ -2,20 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Edgar+Katuramu;Software+Engineer;AI+%26+ML+Enthusiast;Full-Stack+Developer;Mobile+App+Developer;Building+Scalable+Solutions;Write+smart%2C+robust+code;Always+read+to+learn" alt="Typing SVG" />
 </div>
 
-# 💫 About Me:
-```javascript
-const edgarKaturamu = {
-  role: "Software Engineer",
-  passions: [
-    "AI & Machine Learning",
-    "Data Science",
-    "Mobile App Development",
-    "Full-Stack Development",
-    "Building Scalable Solutions",
-  ],
-  motto: "Write smart, robust code and always read to learn"
-};
-```
 
 ## 🌐 Connect:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarkaturamu@gmail.com)
