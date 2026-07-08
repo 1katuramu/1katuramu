@@ -124,19 +124,30 @@ Automated enterprise ETL pipeline built using Docker and Apache Airflow.
 
 ---
 
+## AI Experience
+
+- Building applications with OpenAI, Claude, Gemini and open-source LLMs
+- Developing AI-powered assistants and intelligent automation workflows
+- Prompt engineering and evaluation for production use cases
+- Integrating LLM APIs into web and mobile applications
+- Experimenting with local models using Ollama and Hugging Face
+- Using AI coding assistants to accelerate development while maintaining code quality
+
+  ---
+
 # GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1katuramu&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1katuramu&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1katuramu&theme=dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1katuramu&theme=dark&hide_border=false"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1katuramu&theme=dark&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1katuramu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
 
